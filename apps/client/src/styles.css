@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+
+
+html {
+    background-image: url("/public/images/stars.jpeg");
+    background-color: black;
+}
+
+body {
+    background-image: url("/public/images/stars.jpeg");
+
+}
+
+h2 {
+    font-family: 'Monofett';
+  }
